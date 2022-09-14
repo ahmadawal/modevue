@@ -6,7 +6,7 @@
         <v-container>
           <v-row class="py-16">
             <v-col md="5" cols="12">
-              <div class="text-h6 font-weight-bold mb-5">Our Office</div>
+              <div class="text-h6 font-weight-bold mb-5">Alamat Perusahaan</div>
               <v-list two-line class="transparent">
                 <v-list-item>
                   <v-list-item-icon>
@@ -14,10 +14,14 @@
                   </v-list-item-icon>
 
                   <v-list-item-content>
-                    <v-list-item-title>ADDRESS</v-list-item-title>
-                    <v-list-item-subtitle
-                      >1400 Main Street, Orlando, FL 79938</v-list-item-subtitle
-                    >
+                    <v-list-item-title>ALAMAT</v-list-item-title>
+                    <v-list-item-subtitle>
+                      <p>
+                        Jl. Raya Anyer KM. 08 Ciwandan
+                        <br />
+                        Cilegon 40557, Banten - Indonesia
+                      </p>
+                    </v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
 
@@ -28,12 +32,9 @@
 
                   <v-list-item-content>
                     <v-list-item-title>EMAIL</v-list-item-title>
-                    <v-list-item-subtitle
-                      >info@example.com</v-list-item-subtitle
-                    >
-                    <v-list-item-subtitle
-                      >support@example.com</v-list-item-subtitle
-                    >
+                    <v-list-item-subtitle>
+                      pt.intikaryaalamsubuh@yahoo.com
+                    </v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
 
@@ -44,8 +45,8 @@
 
                   <v-list-item-content>
                     <v-list-item-title>PHONE</v-list-item-title>
-                    <v-list-item-subtitle>(323) 555-6789</v-list-item-subtitle>
-                    <v-list-item-subtitle>(650) 555-1234</v-list-item-subtitle>
+                    <v-list-item-subtitle>(0254) 784-0329</v-list-item-subtitle>
+                    <v-list-item-subtitle>0877-4115-0693</v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
               </v-list>
@@ -58,8 +59,8 @@
                     <v-icon color="primary"> mdi-clock </v-icon>
                   </v-list-item-icon>
                   <v-list-item-content>
-                    <v-list-item-title>MONDAY to FRIDAY </v-list-item-title>
-                    <v-list-item-subtitle>9am to 5pm</v-list-item-subtitle>
+                    <v-list-item-title>SENIN sd jUM'AT </v-list-item-title>
+                    <v-list-item-subtitle>8:00 sd 17:00</v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
 
@@ -68,8 +69,8 @@
                     <v-icon color="primary"> mdi-clock </v-icon>
                   </v-list-item-icon>
                   <v-list-item-content>
-                    <v-list-item-title>SATURDAY</v-list-item-title>
-                    <v-list-item-subtitle>9am to 2pm</v-list-item-subtitle>
+                    <v-list-item-title>SABTU</v-list-item-title>
+                    <v-list-item-subtitle>9:00 sd 14:00</v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
 
@@ -78,18 +79,15 @@
                     <v-icon color="primary"> mdi-clock </v-icon>
                   </v-list-item-icon>
                   <v-list-item-content>
-                    <v-list-item-title>SUNDAY</v-list-item-title>
-                    <v-list-item-subtitle>cLOSED</v-list-item-subtitle>
+                    <v-list-item-title>MINGGU</v-list-item-title>
+                    <v-list-item-subtitle>LIBUR</v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
               </v-list>
             </v-col>
             <v-col md="7" cols="12">
-              <div class="text-h4 font-weight-black mb-8">Contact Us</div>
-              <p class="mb-10">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              </p>
+              <div class="text-h4 font-weight-black mb-8">Hubungi Kami</div>
+              <p class="mb-10">Hubungi kami melalui email instandibawah ini.</p>
               <contactForm />
             </v-col>
           </v-row>

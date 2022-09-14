@@ -1,6 +1,6 @@
 {
-  "name": "modevue",
-  "version": "1.2.0",
+  "name": "inkas",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "nuxt",

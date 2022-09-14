@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "G:\\\\inkas\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_30f30960"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "G:\\\\inkas\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_03946c2f"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "G:\\\\inkas\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_2251bba3"
+  },
+  {
+    "name": "gallery",
+    "path": "/gallery",
+    "component": "G:\\\\inkas\\\\pages\\\\gallery.vue",
+    "chunkName": "pages/gallery",
+    "_name": "_c073b456"
+  },
+  {
+    "name": "pricing",
+    "path": "/pricing",
+    "component": "G:\\\\inkas\\\\pages\\\\pricing.vue",
+    "chunkName": "pages/pricing",
+    "_name": "_7cc0f449"
+  },
+  {
+    "name": "services",
+    "path": "/services",
+    "component": "G:\\\\inkas\\\\pages\\\\services.vue",
+    "chunkName": "pages/services",
+    "_name": "_1647e72a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "G:\\\\inkas\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_073e5615"
+  }
+]
